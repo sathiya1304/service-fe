@@ -1,0 +1,11 @@
+/* Customizing SweetAlert2 progress bar color */
+.swal2-popup .swal2-timer-progress-bar {
+  background-color: green !important;
+}
+
+
+/*sign_up*/
+.customCard {
+  width: 110%;
+  margin-left: -13px;
+}
